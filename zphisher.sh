@@ -11,6 +11,7 @@
 ##   Ali Milani Amin - https://github.com/AliMilani
 ##   Moises Tapia - https://github.com/MoisesTapia
 ##   TheLinuxChoice - https://twitter.com/linux_choice
+##   DeveloperADMIN - https://github.com/DevX
 ##   DarksecDevelopers  - https://github.com/DarksecDevelopers
 ##   Ignitetch  - https://github.com/Ignitetch/AdvPhishing
 ##   Võ Ngọc Bảo - https://github.com/vongocbao
@@ -163,7 +164,7 @@ banner() {
 		${ORANGE}      | |                                
        		${ORANGE}              ${RED}Walcome${GREEN} To ${ORANGE}Zphisher ${GREEN} V.10.VIP
    
-    		${GREEN}[${WHITE}-${GREEN}]${CYAN} Tool Created by DeveloperADMIN (Developer System)${WHITE}
+    		${GREEN}[${WHITE}-${GREEN}]${CYAN} Tool Created by AZTM (Developer System)${WHITE}
 	EOF
 }
 
@@ -312,11 +313,11 @@ msg_exit() {
 about() {
 	{ clear; banner; echo; }
 	cat <<- EOF
-		${GREEN}Author   ${RED}:  ${ORANGE}By ${RED}[ ${ORANGE}DeveloperADMIN ${RED}]
-		${GREEN}Facebook   ${RED}:  ${CYAN}Developer Owner
+		${GREEN}Author   ${RED}:  ${ORANGE}By ${RED}[ ${ORANGE}AZTM ${RED}]
+		${GREEN}Facebook   ${RED}:  ${CYAN}AZTM
 		${GREEN}Version  ${RED}:  ${ORANGE}2.VIP
 
-		${REDBG}${WHITE} Thanks : Adi1090x,MoisesTapia,ThelinuxChoice
+		${REDBG}${WHITE} Thanks : Adi1090x,MoisesTapia,DeveloperADMIN,ThelinuxChoice
 								  DarkSecDevelopers,Mustakim Ahmed,1RaY-1,AliMilani ${RESETBG}
 
 		${RED}Warning:${WHITE}
